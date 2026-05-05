@@ -5,8 +5,13 @@ Nuestro proyecto EDUCAAND STEAM BOX v.1.5: Herramienta Multisensorial de autorre
 
 Docente: José Luis Ortega Calero Email: jortcal952@g.educaand.es
 Alumnas 3ºESO: 
-1.	Directora de Proyecto: Coordinación general, gestión de la plantilla de la memoria y cumplimiento de plazos.  YASMIN ALLAOUI PASCUAL
-2.	Arquitecta de Hardware: Responsable del esquema de conexiones, soldadura y montaje físico de los componentes. NOA GONZÁLEZ BLANCO
-3.	Responsable de Programación: Desarrollo del código en el IDE de Arduino y gestión de librerías. MARÍA PÉREZ ROMERO
-4.	Diseñadora de Experiencia de Usuario (UX): Selección de la estética lúdica (colores amigables) y diseño del interfaz de usuario. ELIA VÁZQUEZ MANZANO
-5.	Especialista en Comunicación: Guionización y edición del vídeo de presentación de 3 minutos. IRENE SÁNCHEZ VEGA
+1.	Directora de Proyecto: Coordinación general, gestión de la plantilla de la memoria y cumplimiento de plazos.  
+YASMIN ALLAOUI PASCUAL
+2.	Arquitecta de Hardware: Responsable del esquema de conexiones, soldadura y montaje físico de los componentes. 
+NOA GONZÁLEZ BLANCO
+3.	Responsable de Programación: Desarrollo del código en el IDE de Arduino y gestión de librerías. 
+MARÍA PÉREZ ROMERO
+4.	Diseñadora de Experiencia de Usuario (UX): Selección de la estética lúdica (colores amigables) y diseño del interfaz de usuario. 
+ELIA VÁZQUEZ MANZANO
+5.	Especialista en Comunicación: Guionización y edición del vídeo de presentación de 3 minutos. 
+IRENE SÁNCHEZ VEGA
